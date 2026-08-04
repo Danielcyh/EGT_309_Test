@@ -5,12 +5,12 @@
 ### Admin Number: 
 ### Github Link:
 
-#### Q2(a): Documenting Your Python Class
+#### Q2(a): Documenting Your Python Class:
 
 
 
-#### Q2(d) Suggest Improvements to the Code
+#### Q2(d) Suggest Improvements to the Code:
 
 
 
-#### Q4 Advanced Github features implemented
+#### Q4 Advanced Github features implemented:
